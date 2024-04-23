@@ -1,0 +1,14 @@
+/Users/natang/Desktop/tictactoe/bin/Debug/net8.0/tictactoe
+/Users/natang/Desktop/tictactoe/bin/Debug/net8.0/tictactoe.deps.json
+/Users/natang/Desktop/tictactoe/bin/Debug/net8.0/tictactoe.runtimeconfig.json
+/Users/natang/Desktop/tictactoe/bin/Debug/net8.0/tictactoe.dll
+/Users/natang/Desktop/tictactoe/bin/Debug/net8.0/tictactoe.pdb
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/tictactoe.AssemblyInfoInputs.cache
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/tictactoe.AssemblyInfo.cs
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/tictactoe.dll
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/refint/tictactoe.dll
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/tictactoe.pdb
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/tictactoe.genruntimeconfig.cache
+/Users/natang/Desktop/tictactoe/obj/Debug/net8.0/ref/tictactoe.dll
